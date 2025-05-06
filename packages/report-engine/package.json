@@ -1,0 +1,10 @@
+{
+  "name": "@rapor-app/report-engine",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "mssql": "^9.1.1",
+    "pg": "^8.10.0",
+    "mysql2": "^3.3.1"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "@rapor-app/user-management",
+  "version": "1.0.0",
+  "main": "user-model.js",
+  "dependencies": {
+    "bcryptjs": "^2.4.3"
+  }
+}

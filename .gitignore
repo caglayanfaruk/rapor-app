@@ -1,0 +1,39 @@
+# Bağımlılıklar
+node_modules/
+.npm
+npm-debug.log*
+
+# Ortam Değişkenleri
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build çıktıları
+build/
+dist/
+.next/
+out/
+
+# Editör ve IDE dosyaları
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Log dosyaları
+logs
+*.log
+
+# Önbellek
+.cache/
+
+# Hassas Konfigürasyonlar
+config/env/*.json
+!config/env/env.example.json
+
+# Proje Özgü İstisnalar
+*.orig
+.grunt
